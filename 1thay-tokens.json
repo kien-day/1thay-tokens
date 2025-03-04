@@ -1,5 +1,5 @@
 {
-  "color tailwindcss/Mode 1": {
+  "color tailwindcss/Default": {
     "slate": {
       "50": {
         "$type": "color",
@@ -1013,115 +1013,7 @@
       }
     }
   },
-  "color 1thay/Dark": {
-    "tayquen": {
-      "800": {
-        "$type": "color",
-        "$value": "#044f44"
-      }
-    },
-    "1reputa": {
-      "100": {
-        "$type": "color",
-        "$value": "#e8eeff"
-      },
-      "200": {
-        "$type": "color",
-        "$value": "#dbe5fe"
-      },
-      "300": {
-        "$type": "color",
-        "$value": "#a2bade"
-      },
-      "400": {
-        "$type": "color",
-        "$value": "#8baacf"
-      },
-      "500": {
-        "$type": "color",
-        "$value": "#4b88c0"
-      },
-      "600": {
-        "$type": "color",
-        "$value": "#119cff"
-      },
-      "700": {
-        "$type": "color",
-        "$value": "#0061ff"
-      },
-      "800": {
-        "$type": "color",
-        "$value": "#064bae"
-      },
-      "900": {
-        "$type": "color",
-        "$value": "#043a8a"
-      },
-      "950": {
-        "$type": "color",
-        "$value": "#032d6a"
-      },
-      "999": {
-        "$type": "color",
-        "$value": "#001738"
-      },
-      "050": {
-        "$type": "color",
-        "$value": "#f5f8ff"
-      }
-    },
-    "1neutral": {
-      "100": {
-        "$type": "color",
-        "$value": "#202020"
-      },
-      "200": {
-        "$type": "color",
-        "$value": "#252525"
-      },
-      "300": {
-        "$type": "color",
-        "$value": "#404040"
-      },
-      "400": {
-        "$type": "color",
-        "$value": "#525252"
-      },
-      "500": {
-        "$type": "color",
-        "$value": "#757575"
-      },
-      "600": {
-        "$type": "color",
-        "$value": "#a3a3a3"
-      },
-      "700": {
-        "$type": "color",
-        "$value": "#e5e5e5"
-      },
-      "800": {
-        "$type": "color",
-        "$value": "#f5f5f5"
-      },
-      "900": {
-        "$type": "color",
-        "$value": "#f8f8f8"
-      },
-      "950": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "000": {
-        "$type": "color",
-        "$value": "#131313"
-      },
-      "050": {
-        "$type": "color",
-        "$value": "#161616"
-      }
-    }
-  },
-  "color 1thay/Light": {
+  "color 1thay/Default": {
     "tayquen": {
       "800": {
         "$type": "color",
@@ -1318,9 +1210,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "color tailwindcss/Mode 1",
-      "color 1thay/Dark",
-      "color 1thay/Light",
+      "color tailwindcss/Default",
+      "color 1thay/Default",
       "type/Default",
       "unit sizing/Default"
     ]
