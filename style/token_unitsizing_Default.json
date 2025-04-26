@@ -1,0 +1,146 @@
+{
+  "border-radius": {
+    "rounded": {
+      "type": "number",
+      "value": "{unit-spacing.1}"
+    },
+    "rounded-2xl": {
+      "type": "number",
+      "value": "{unit-spacing.4}"
+    },
+    "rounded-3xl": {
+      "type": "number",
+      "value": "{unit-spacing.6}"
+    },
+    "rounded-full": {
+      "type": "number",
+      "value": 9999
+    },
+    "rounded-lg": {
+      "type": "number",
+      "value": "{unit-spacing.2}"
+    },
+    "rounded-md": {
+      "type": "number",
+      "value": "{unit-spacing.1,5}"
+    },
+    "rounded-none": {
+      "type": "number",
+      "value": "{unit-spacing.0}"
+    },
+    "rounded-sm": {
+      "type": "number",
+      "value": "{unit-spacing.0,5}"
+    },
+    "rounded-xl": {
+      "type": "number",
+      "value": "{unit-spacing.3}"
+    }
+  },
+  "border-width": {
+    "border": {
+      "type": "number",
+      "value": "{unit-spacing.px}"
+    },
+    "border-0": {
+      "type": "number",
+      "value": "{unit-spacing.0}"
+    },
+    "border-2": {
+      "type": "number",
+      "value": "{unit-spacing.0,5}"
+    },
+    "border-4": {
+      "type": "number",
+      "value": "{unit-spacing.1}"
+    }
+  },
+  "breakpoint": {
+    "2xl": {
+      "type": "number",
+      "value": 1536
+    },
+    "lg": {
+      "type": "number",
+      "value": 1024
+    },
+    "md": {
+      "type": "number",
+      "value": 768
+    },
+    "sm": {
+      "type": "number",
+      "value": 640
+    },
+    "xl": {
+      "type": "number",
+      "value": 1280
+    }
+  },
+  "unit-spacing": {
+    "0": {
+      "type": "number",
+      "value": 0
+    },
+    "0,5": {
+      "type": "number",
+      "value": 2
+    },
+    "1": {
+      "type": "number",
+      "value": 4
+    },
+    "1,5": {
+      "type": "number",
+      "value": 6
+    },
+    "10": {
+      "type": "number",
+      "value": 40
+    },
+    "2": {
+      "type": "number",
+      "value": 8
+    },
+    "2,5": {
+      "type": "number",
+      "value": 10
+    },
+    "3": {
+      "type": "number",
+      "value": 12
+    },
+    "3,5": {
+      "type": "number",
+      "value": 14
+    },
+    "4": {
+      "type": "number",
+      "value": 16
+    },
+    "5": {
+      "type": "number",
+      "value": 20
+    },
+    "6": {
+      "type": "number",
+      "value": 24
+    },
+    "7": {
+      "type": "number",
+      "value": 28
+    },
+    "8": {
+      "type": "number",
+      "value": 32
+    },
+    "9": {
+      "type": "number",
+      "value": 36
+    },
+    "px": {
+      "type": "number",
+      "value": 1
+    }
+  }
+}
